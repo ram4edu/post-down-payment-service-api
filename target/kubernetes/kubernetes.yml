@@ -4,8 +4,8 @@ kind: Service
 metadata:
   annotations:
     app.quarkus.io/vcs-url: https://github.com/ram4edu/post-down-payment-service-api.git
-    app.quarkus.io/build-timestamp: 2021-02-12 - 10:39:02 +0000
-    app.quarkus.io/commit-id: 4ea88b5182ea5d509c73096da24a58064fd01c74
+    app.quarkus.io/build-timestamp: 2021-02-12 - 10:45:21 +0000
+    app.quarkus.io/commit-id: 96963badf498f6759cad1898007b5d27e8818409
   labels:
     app.kubernetes.io/name: account-service-api
     app.kubernetes.io/version: 1.0.0-SNAPSHOT
@@ -25,8 +25,8 @@ kind: Deployment
 metadata:
   annotations:
     app.quarkus.io/vcs-url: https://github.com/ram4edu/post-down-payment-service-api.git
-    app.quarkus.io/build-timestamp: 2021-02-12 - 10:39:02 +0000
-    app.quarkus.io/commit-id: 4ea88b5182ea5d509c73096da24a58064fd01c74
+    app.quarkus.io/build-timestamp: 2021-02-12 - 10:45:21 +0000
+    app.quarkus.io/commit-id: 96963badf498f6759cad1898007b5d27e8818409
   labels:
     app.kubernetes.io/version: 1.0.0-SNAPSHOT
     app.kubernetes.io/name: account-service-api
@@ -41,8 +41,8 @@ spec:
     metadata:
       annotations:
         app.quarkus.io/vcs-url: https://github.com/ram4edu/post-down-payment-service-api.git
-        app.quarkus.io/build-timestamp: 2021-02-12 - 10:39:02 +0000
-        app.quarkus.io/commit-id: 4ea88b5182ea5d509c73096da24a58064fd01c74
+        app.quarkus.io/build-timestamp: 2021-02-12 - 10:45:21 +0000
+        app.quarkus.io/commit-id: 96963badf498f6759cad1898007b5d27e8818409
       labels:
         app.kubernetes.io/version: 1.0.0-SNAPSHOT
         app.kubernetes.io/name: account-service-api
