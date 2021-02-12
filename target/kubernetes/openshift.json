@@ -3,9 +3,9 @@
   "kind" : "Service",
   "metadata" : {
     "annotations" : {
-      "app.quarkus.io/build-timestamp" : "2021-02-12 - 07:15:02 +0000",
+      "app.quarkus.io/build-timestamp" : "2021-02-12 - 07:33:59 +0000",
       "app.openshift.io/vcs-url" : "https://github.com/ram4edu/post-down-payment-service-api.git",
-      "app.quarkus.io/commit-id" : "1178d28e14564e05c7010bea327f9693db5bb91e",
+      "app.quarkus.io/commit-id" : "a409bfe2c8d0d3ca864e069921e884e3f89a771b",
       "app.quarkus.io/vcs-url" : "https://github.com/ram4edu/post-down-payment-service-api.git"
     },
     "labels" : {
@@ -32,9 +32,9 @@
   "kind" : "ImageStream",
   "metadata" : {
     "annotations" : {
-      "app.quarkus.io/build-timestamp" : "2021-02-12 - 07:15:02 +0000",
+      "app.quarkus.io/build-timestamp" : "2021-02-12 - 07:33:59 +0000",
       "app.openshift.io/vcs-url" : "https://github.com/ram4edu/post-down-payment-service-api.git",
-      "app.quarkus.io/commit-id" : "1178d28e14564e05c7010bea327f9693db5bb91e",
+      "app.quarkus.io/commit-id" : "a409bfe2c8d0d3ca864e069921e884e3f89a771b",
       "app.quarkus.io/vcs-url" : "https://github.com/ram4edu/post-down-payment-service-api.git"
     },
     "labels" : {
@@ -59,9 +59,9 @@
   "kind" : "BuildConfig",
   "metadata" : {
     "annotations" : {
-      "app.quarkus.io/build-timestamp" : "2021-02-12 - 07:15:02 +0000",
+      "app.quarkus.io/build-timestamp" : "2021-02-12 - 07:33:59 +0000",
       "app.openshift.io/vcs-url" : "https://github.com/ram4edu/post-down-payment-service-api.git",
-      "app.quarkus.io/commit-id" : "1178d28e14564e05c7010bea327f9693db5bb91e",
+      "app.quarkus.io/commit-id" : "a409bfe2c8d0d3ca864e069921e884e3f89a771b",
       "app.quarkus.io/vcs-url" : "https://github.com/ram4edu/post-down-payment-service-api.git"
     },
     "labels" : {
@@ -95,9 +95,9 @@
   "kind" : "DeploymentConfig",
   "metadata" : {
     "annotations" : {
-      "app.quarkus.io/build-timestamp" : "2021-02-12 - 07:15:02 +0000",
+      "app.quarkus.io/build-timestamp" : "2021-02-12 - 07:33:59 +0000",
       "app.openshift.io/vcs-url" : "https://github.com/ram4edu/post-down-payment-service-api.git",
-      "app.quarkus.io/commit-id" : "1178d28e14564e05c7010bea327f9693db5bb91e",
+      "app.quarkus.io/commit-id" : "a409bfe2c8d0d3ca864e069921e884e3f89a771b",
       "app.quarkus.io/vcs-url" : "https://github.com/ram4edu/post-down-payment-service-api.git"
     },
     "labels" : {
@@ -116,9 +116,9 @@
     "template" : {
       "metadata" : {
         "annotations" : {
-          "app.quarkus.io/build-timestamp" : "2021-02-12 - 07:15:02 +0000",
+          "app.quarkus.io/build-timestamp" : "2021-02-12 - 07:33:59 +0000",
           "app.openshift.io/vcs-url" : "https://github.com/ram4edu/post-down-payment-service-api.git",
-          "app.quarkus.io/commit-id" : "1178d28e14564e05c7010bea327f9693db5bb91e",
+          "app.quarkus.io/commit-id" : "a409bfe2c8d0d3ca864e069921e884e3f89a771b",
           "app.quarkus.io/vcs-url" : "https://github.com/ram4edu/post-down-payment-service-api.git"
         },
         "labels" : {
