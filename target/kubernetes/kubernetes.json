@@ -4,8 +4,8 @@
   "metadata" : {
     "annotations" : {
       "app.quarkus.io/vcs-url" : "https://github.com/ram4edu/post-down-payment-service-api.git",
-      "app.quarkus.io/build-timestamp" : "2021-02-11 - 14:44:07 +0000",
-      "app.quarkus.io/commit-id" : "1ae36044aa0fd8fa9012abf838a54b9b3b86b0ad"
+      "app.quarkus.io/build-timestamp" : "2021-02-12 - 07:15:02 +0000",
+      "app.quarkus.io/commit-id" : "1178d28e14564e05c7010bea327f9693db5bb91e"
     },
     "labels" : {
       "app.kubernetes.io/name" : "account-service-api",
@@ -31,12 +31,12 @@
   "metadata" : {
     "annotations" : {
       "app.quarkus.io/vcs-url" : "https://github.com/ram4edu/post-down-payment-service-api.git",
-      "app.quarkus.io/build-timestamp" : "2021-02-11 - 14:44:07 +0000",
-      "app.quarkus.io/commit-id" : "1ae36044aa0fd8fa9012abf838a54b9b3b86b0ad"
+      "app.quarkus.io/build-timestamp" : "2021-02-12 - 07:15:02 +0000",
+      "app.quarkus.io/commit-id" : "1178d28e14564e05c7010bea327f9693db5bb91e"
     },
     "labels" : {
-      "app.kubernetes.io/version" : "1.0.0-SNAPSHOT",
-      "app.kubernetes.io/name" : "account-service-api"
+      "app.kubernetes.io/name" : "account-service-api",
+      "app.kubernetes.io/version" : "1.0.0-SNAPSHOT"
     },
     "name" : "account-service-api"
   },
@@ -44,20 +44,20 @@
     "replicas" : 1,
     "selector" : {
       "matchLabels" : {
-        "app.kubernetes.io/version" : "1.0.0-SNAPSHOT",
-        "app.kubernetes.io/name" : "account-service-api"
+        "app.kubernetes.io/name" : "account-service-api",
+        "app.kubernetes.io/version" : "1.0.0-SNAPSHOT"
       }
     },
     "template" : {
       "metadata" : {
         "annotations" : {
           "app.quarkus.io/vcs-url" : "https://github.com/ram4edu/post-down-payment-service-api.git",
-          "app.quarkus.io/build-timestamp" : "2021-02-11 - 14:44:07 +0000",
-          "app.quarkus.io/commit-id" : "1ae36044aa0fd8fa9012abf838a54b9b3b86b0ad"
+          "app.quarkus.io/build-timestamp" : "2021-02-12 - 07:15:02 +0000",
+          "app.quarkus.io/commit-id" : "1178d28e14564e05c7010bea327f9693db5bb91e"
         },
         "labels" : {
-          "app.kubernetes.io/version" : "1.0.0-SNAPSHOT",
-          "app.kubernetes.io/name" : "account-service-api"
+          "app.kubernetes.io/name" : "account-service-api",
+          "app.kubernetes.io/version" : "1.0.0-SNAPSHOT"
         }
       },
       "spec" : {
