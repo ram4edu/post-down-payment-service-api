@@ -3,9 +3,9 @@
   "kind" : "Service",
   "metadata" : {
     "annotations" : {
-      "app.quarkus.io/build-timestamp" : "2021-02-12 - 07:33:59 +0000",
+      "app.quarkus.io/build-timestamp" : "2021-02-12 - 10:39:02 +0000",
       "app.openshift.io/vcs-url" : "https://github.com/ram4edu/post-down-payment-service-api.git",
-      "app.quarkus.io/commit-id" : "a409bfe2c8d0d3ca864e069921e884e3f89a771b",
+      "app.quarkus.io/commit-id" : "4ea88b5182ea5d509c73096da24a58064fd01c74",
       "app.quarkus.io/vcs-url" : "https://github.com/ram4edu/post-down-payment-service-api.git"
     },
     "labels" : {
@@ -32,15 +32,15 @@
   "kind" : "ImageStream",
   "metadata" : {
     "annotations" : {
-      "app.quarkus.io/build-timestamp" : "2021-02-12 - 07:33:59 +0000",
+      "app.quarkus.io/build-timestamp" : "2021-02-12 - 10:39:02 +0000",
       "app.openshift.io/vcs-url" : "https://github.com/ram4edu/post-down-payment-service-api.git",
-      "app.quarkus.io/commit-id" : "a409bfe2c8d0d3ca864e069921e884e3f89a771b",
+      "app.quarkus.io/commit-id" : "4ea88b5182ea5d509c73096da24a58064fd01c74",
       "app.quarkus.io/vcs-url" : "https://github.com/ram4edu/post-down-payment-service-api.git"
     },
     "labels" : {
       "app.openshift.io/runtime" : "quarkus",
-      "app.kubernetes.io/version" : "1.0.0-SNAPSHOT",
-      "app.kubernetes.io/name" : "account-service-api"
+      "app.kubernetes.io/name" : "account-service-api",
+      "app.kubernetes.io/version" : "1.0.0-SNAPSHOT"
     },
     "name" : "account-service-api"
   },
@@ -59,15 +59,15 @@
   "kind" : "BuildConfig",
   "metadata" : {
     "annotations" : {
-      "app.quarkus.io/build-timestamp" : "2021-02-12 - 07:33:59 +0000",
+      "app.quarkus.io/build-timestamp" : "2021-02-12 - 10:39:02 +0000",
       "app.openshift.io/vcs-url" : "https://github.com/ram4edu/post-down-payment-service-api.git",
-      "app.quarkus.io/commit-id" : "a409bfe2c8d0d3ca864e069921e884e3f89a771b",
+      "app.quarkus.io/commit-id" : "4ea88b5182ea5d509c73096da24a58064fd01c74",
       "app.quarkus.io/vcs-url" : "https://github.com/ram4edu/post-down-payment-service-api.git"
     },
     "labels" : {
       "app.openshift.io/runtime" : "quarkus",
-      "app.kubernetes.io/version" : "1.0.0-SNAPSHOT",
-      "app.kubernetes.io/name" : "account-service-api"
+      "app.kubernetes.io/name" : "account-service-api",
+      "app.kubernetes.io/version" : "1.0.0-SNAPSHOT"
     },
     "name" : "account-service-api"
   },
@@ -95,36 +95,36 @@
   "kind" : "DeploymentConfig",
   "metadata" : {
     "annotations" : {
-      "app.quarkus.io/build-timestamp" : "2021-02-12 - 07:33:59 +0000",
+      "app.quarkus.io/build-timestamp" : "2021-02-12 - 10:39:02 +0000",
       "app.openshift.io/vcs-url" : "https://github.com/ram4edu/post-down-payment-service-api.git",
-      "app.quarkus.io/commit-id" : "a409bfe2c8d0d3ca864e069921e884e3f89a771b",
+      "app.quarkus.io/commit-id" : "4ea88b5182ea5d509c73096da24a58064fd01c74",
       "app.quarkus.io/vcs-url" : "https://github.com/ram4edu/post-down-payment-service-api.git"
     },
     "labels" : {
       "app.openshift.io/runtime" : "quarkus",
-      "app.kubernetes.io/version" : "1.0.0-SNAPSHOT",
-      "app.kubernetes.io/name" : "account-service-api"
+      "app.kubernetes.io/name" : "account-service-api",
+      "app.kubernetes.io/version" : "1.0.0-SNAPSHOT"
     },
     "name" : "account-service-api"
   },
   "spec" : {
     "replicas" : 1,
     "selector" : {
-      "app.kubernetes.io/version" : "1.0.0-SNAPSHOT",
-      "app.kubernetes.io/name" : "account-service-api"
+      "app.kubernetes.io/name" : "account-service-api",
+      "app.kubernetes.io/version" : "1.0.0-SNAPSHOT"
     },
     "template" : {
       "metadata" : {
         "annotations" : {
-          "app.quarkus.io/build-timestamp" : "2021-02-12 - 07:33:59 +0000",
+          "app.quarkus.io/build-timestamp" : "2021-02-12 - 10:39:02 +0000",
           "app.openshift.io/vcs-url" : "https://github.com/ram4edu/post-down-payment-service-api.git",
-          "app.quarkus.io/commit-id" : "a409bfe2c8d0d3ca864e069921e884e3f89a771b",
+          "app.quarkus.io/commit-id" : "4ea88b5182ea5d509c73096da24a58064fd01c74",
           "app.quarkus.io/vcs-url" : "https://github.com/ram4edu/post-down-payment-service-api.git"
         },
         "labels" : {
           "app.openshift.io/runtime" : "quarkus",
-          "app.kubernetes.io/version" : "1.0.0-SNAPSHOT",
-          "app.kubernetes.io/name" : "account-service-api"
+          "app.kubernetes.io/name" : "account-service-api",
+          "app.kubernetes.io/version" : "1.0.0-SNAPSHOT"
         }
       },
       "spec" : {
